@@ -1,1 +1,1 @@
-video for the project on bitbucket.org
+Videos for the test project on bitbucket.org
